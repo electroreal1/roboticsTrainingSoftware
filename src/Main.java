@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // to see how IntelliJ IDEA suggests fixing it.
         String[] list = new String[10];
         Double[] prices =  new Double[10];
 
